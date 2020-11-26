@@ -1,0 +1,91 @@
+*{padding: 0;margin: 0;box-sizing:border-box;}
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+main{
+	height: 90vh;
+	width: 90%;
+	border:2px solid black;
+	margin: auto;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+
+}
+
+div
+{
+	width: 30%;
+	height: 27vh;
+	
+	cursor:pointer;
+	box-shadow: 5px 5px 10px grey;
+	border-radius: 10px;
+}
+
+.a
+{
+	background-image: url('../images/img1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.b
+{
+	background-image: url('../images/img2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.c
+{
+	background-image: url('../images/img3.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.d
+{
+	background-image: url('../images/img4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.e
+{
+	background-image: url('../images/img5.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.f
+{
+	background-image: url('../images/img6.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.g
+{
+	background-image: url('../images/img7.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.h
+{
+	background-image: url('../images/img8.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.i
+{
+	background-image: url('../images/img4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
